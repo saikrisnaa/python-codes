@@ -1,0 +1,5 @@
+import calendar
+
+month=2
+year=2023
+print(calendar.month(year,month))
